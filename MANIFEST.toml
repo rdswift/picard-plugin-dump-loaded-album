@@ -1,0 +1,13 @@
+uuid = "98b60957-2d75-4e17-999b-753c86b47c1b"
+name = "Dump Loaded Album"
+authors = ["Bob Swift"]
+description = "This plugin dumps the album information retrieved from MusicBrainz to a JSON file."
+api = ['3.0']
+license = "GPL-2.0-or-later"
+license_url = "https://www.gnu.org/licenses/gpl-2.0.html"
+long_description = """
+This plugin dumps the album information retrieved from MusicBrainz to a JSON file. This can be a useful reference when developing album or track metadata processing plugins.
+"""
+categories = ["other"]
+homepage = "https://picard-plugins-user-guides.readthedocs.io/en/latest/dump_loaded_album/user_guide.html"
+report_bugs_to = "https://github.com/rdswift/picard-plugin-dump-loaded-album/issues"

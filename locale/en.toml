@@ -1,0 +1,8 @@
+"manifest.description" = "This plugin dumps the album information retrieved from MusicBrainz to a file."
+"manifest.long_description" = "This plugin dumps the album information retrieved from MusicBrainz to a JSON file. This can be a useful reference when developing album or track metadata processing plugins."
+"manifest.name" = "Dump Loaded Album"
+"qt.DumpLoadedAlbumOptionsPage.label.target_dir" = "Target Directory:"
+"qt.DumpLoadedAlbumOptionsPage.page.description" = "This plugin dumps the album information retrieved from MusicBrainz to a JSON file. This can be a useful reference when developing album or track metadata processing plugins."
+"qt.DumpLoadedAlbumOptionsPage.page.title" = "Dump Loaded Album"
+"qt.DumpLoadedAlbumOptionsPage.tooltip.button.select_target_dir" = "The directory where the album JSON dump will be written."
+"ui.title" = "Dump Loaded Album"
